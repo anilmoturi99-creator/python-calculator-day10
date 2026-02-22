@@ -1,6 +1,11 @@
-# Python Calculator - Day 10
+ #  Python Projects 
 
-This project is part of Angela Yu's 100 Days of Code.
+This repository contains my Python projects while learning to become a Python Software Engineer.
+
+##  Projects
+
+###  Day 10 – Calculator
+A basic calculator built using Python functions and loops.
 
 Features:
 - Addition
@@ -9,4 +14,28 @@ Features:
 - Division
 - Continuous calculation
 
-Built using Python.
+---
+
+### Day 11 – Blackjack Game
+A command-line Blackjack game built using Python.
+
+Features:
+- Random card dealing
+- Blackjack detection
+- Dealer logic
+- Score comparison
+- ASCII logo
+
+---
+
+## Tech Used
+- Python
+- PyCharm
+- Git & GitHub
+
+---
+
+##  Author
+Anil Kumar  
+3rd Year Student  
+Aspiring Python Software Engineer
