@@ -27,6 +27,18 @@ Features:
 - ASCII logo
 
 ---
+###  Day 12 – Number Guessing Game
+
+A command-line number guessing game built using Python.
+
+####  Features
+- Random number between 1 and 100
+- Easy (10 attempts) and Hard (5 attempts) modes
+- High / Low feedback system
+- Attempts tracking
+- Win/Lose logic
+- Secret number reveal on game over
+- Clean loop-based game structure
 
 ## Tech Used
 - Python
